@@ -1,1 +1,9 @@
-{}
+{
+  "function": {
+    "testjason": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
